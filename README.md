@@ -10,8 +10,6 @@ The application leverages was designed using WordPress CMS (specifically Element
 - Download code zip file from GitHub 
 - Access the web app using any modern browser
 
-# User Journey
-
 # User Dashboard
 - Reference "Diagram-UserFlowEndUser.pdf"
 - User Login - open **login.html** and enter any username and password (clickable app - just requires any input). Do not enroll into MFA, just click "Sent TOTP". Enter any 6 characters for the TOTP code.
