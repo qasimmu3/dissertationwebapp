@@ -1,4 +1,4 @@
-# Dissertation Artefact
+# Dissertation Artefact (WEB APP)
 --------------------------
 
 # Description
