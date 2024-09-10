@@ -10,13 +10,17 @@ The application leverages was designed using WordPress CMS (specifically Element
 - Download code zip file from GitHub 
 - Access the web app using any modern browser
 
+# User Journey
+
 # User Dashboard
+- Reference "Diagram-UserFlowEndUser.pdf"
 - User Login - open **login.html** and enter any username and password (clickable app - just requires any input). Do not enroll into MFA, just click "Sent TOTP". Enter any 6 characters for the TOTP code.
 - Complete the onboarding assessment form. Selections are required to move to the next question. Static score of 78% will appear regardless of selection.
 - Three trainings are available. Note - right/wrong answer will be provided right away. Reference future enhancements.
 - Upon onboarding, two badges will be earned. A list of full badges can be viewed.
 
 # Admin Dashboard
+-  Reference "Diagram-UserFlowAdminUser.pdf"
 -  Admin Login - open **admin-login.html** and enter any username and password (clickable app - just requires any input). Enter any 6 characters for the TOTP code.
 -  You'll be presented with the admin dashboard
 
